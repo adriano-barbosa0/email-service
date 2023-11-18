@@ -59,7 +59,7 @@ A estrutura do projeto segue uma arquitetura limpa, permitindo a fácil substitu
 |   |   |   |   |   |   |-- application/
 |   |   |   |   |   |   |-- controllers/
 |   |   |   |   |   |   |-- core/
-|   |   |   |   |   |   |-- infrases/
+|   |   |   |   |   |   |-- infra.ses/
 |   |   |   |   |   |   |-- EmailServiceApplication.java
 |   |-- resources/
 |   |   |-- application.properties
